@@ -35,7 +35,7 @@ header nav li a{
 }
 
 .container{
-    max-width: 900px;
+    max-width: 1200px;
     width: 100%;
     margin: 0px auto;
 }
@@ -68,14 +68,10 @@ section h2{
     margin-bottom: 16px;
 }
 
-
 section p{
     margin-bottom: 8px;
 }
 
-#about{
-    padding-bottom: 800px;
-}
 .store-front{
     margin-right: 16px;
     height: 300px;
